@@ -5,7 +5,7 @@
 <a href = "mailto:luisandreslopez123@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Perfil de Gmail de Luis Andrés López Uzcátegui"  /></a>
   </p>
 <br>
-<h1 align=center>Sobre mi 😃</h1>
+<h1 align=center>Sobre mí 😃</h1>
 <!--Intro start-->
 
 <div align="center">
