@@ -11,7 +11,8 @@
 <div align="center">
  🎓 Estudiante de Desarrollo App Web Full-Stack: FRONTEND Y BACKEND
   
-💻 En proceso de cambio hacia el mundo tech, aprendiendo desarrollo web full stack y disfrutando del camino. Me gusta construir cosas, entender cómo funcionan y seguir mejorando cada día.📫 Contacto: **luisandreslopez123@gmail.com**  
+💻 En proceso de cambio hacia el mundo tech, aprendiendo desarrollo web full stack y disfrutando del camino. Me gusta construir cosas, entender cómo funcionan y seguir mejorando cada día.📫 
+Contacto: **luisandreslopez123@gmail.com**  
 </div>
 
 
